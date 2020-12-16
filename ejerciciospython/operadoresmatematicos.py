@@ -9,4 +9,8 @@ print (11//5)
 
 print (2**3) 
 
-print (7%2)
+nombre = "Marlene"
+numero2 = 10
+
+print (nombre)
+
