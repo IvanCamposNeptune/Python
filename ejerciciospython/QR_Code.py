@@ -1,4 +1,5 @@
 # Codigo para generar un codigo QR
+#Python 3
 
 import qrcode # importamos la libreria qrcode
 from PIL import Image # importamos la libreria Image de PIL
